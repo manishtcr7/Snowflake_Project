@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS Customer (CustomerName String, CustomerID String, CustomerAge Number, PhoneNumber String)
